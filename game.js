@@ -103,82 +103,82 @@ const myQuestions = [
   {
     question: "What does Yandu use to control the whistle?",
     answers: [
-      {v: "His Head"},
-      {v: "His Finn"},
-      {v: "His Heart", correct: true},
-      {v: "His Feet"}
+      {v: "  His Head"},
+      {v: "  His Finn"},
+      {v: "  His Heart", correct: true},
+      {v: "  His Feet"}
     ]
   },
   {
     question: "Who is Quill's father?",
     answers: [
-      {v: "Yandu"},
-      {v: "Papa Drax"},
-      {v: "Ego", correct: true},
-      {v: "TraserFace"}
+      {v: "  Yandu"},
+      {v: "  Papa Drax"},
+      {v: "  Ego", correct: true},
+      {v: "  TraserFace"}
     ]
   },
     {
     question: "Why is yandu in trouble with the ravagers?",
     answers: [
-      {v: "Didn't have controle over his crew"},
-      {v: "Drank to much."},
-      {v: "He dealt in children", correct: true},
-      {v: "Helped Quill."}
+      {v: "  Didn't have controle over his crew"},
+      {v: "  Drank to much."},
+      {v: "  He dealt in children", correct: true},
+      {v: "  Helped Quill."}
     ]
   },
     {
     question: "What does drax call the batteries?",
     answers: [
-      {v: "Sonnenschein"},
-      {v: "Trojan"},
-      {v: "Arbulary batteries", correct: true},
-      {v: "Yuasa"}
+      {v: "  Sonnenschein"},
+      {v: "  Trojan"},
+      {v: "  Arbulary batteries", correct: true},
+      {v: "  Yuasa"}
     ]
   },
   // {
-  //   question: "What does gamora say to Quill at the end of the movie when he asks her what?",
+  //   question: "How many jumps does rocket take to get to egos planet?",
   //   answers: [
-  //     {v: "this is a answer"},
-  //     {v: "this is another answer"},
-  //     {v: "  It's just some unspoken thing.", correct: true},
-  //     {v: "this is the wrong answer"}
+  //     {v: "  500"},
+  //     {v: "  900"},
+  //     {v: "  700", correct: true},
+  //     {v: "  400"}
   //   ] 
   // },
   // {
-  //   question: "What does Yandu use to control the whistle?",
+  //   question: "What is the name of egos companion?",
   //   answers: [
-  //     {v: "this is a answer"},
-  //     {v: "this is another answer"},
-  //     {v: "His heart", correct: true},
-  //     {v: "this is the wrong answer"}
+  //     {v: "  Moth"},
+  //     {v: "  Mosquito"},
+  //     {v: "  Mantis", correct: true},
+  //     {v: "  Maggot"}
   //   ]
   // },
   // {
-  //   question: "Where is Waldo really?",
+  //   question: "What is mantis?",
   //   answers: [
-  //     {v: "this is a answer"},
-  //     {v: "this is another answer"},
-  //     {v: "correct ans", correct: true},
-  //     {v: "this is the wrong answer"}
+  //     {v: "  Telepath"},
+  //     {v: "  Mind reader"},
+  //     {v: "  An empath", correct: true},
+  //     {v: "  Flyer"}
   //   ]
   // },
   //   {
-  //   question: "Where is Waldo really?",
+  //   question: "What does ego cal quills mother?",
   //   answers: [
-  //     {v: "this is a answer"},
-  //     {v: "this is another answer"},
-  //     {v: "correct ans", correct: true},
-  //     {v: "this is the wrong answer"}
+  //     {v: "  lily river"},
+  //     {v: "  first lover"},
+  //     {v: "  River lily", correct: true},
+  //     {v: "  lily"}
   //   ]
   // },
   //   {
-  //   question: "Where is Waldo really?",
+  //   question: "What is the song ego uses to try and get quill?",
   //   answers: [
-  //     {v: "this is a answer"},
-  //     {v: "this is another answer"},
-  //     {v: "correct ans", correct: true},
-  //     {v: "this is the wrong answer"}
+  //     {v: "  Lake Shore Drive"},
+  //     {v: "  Fox on the Run"},
+  //     {v: "  Brandy you're a fine girl", correct: true},
+  //     {v: "  Mr. Blue Sky's"}
   //   ]
   // },
 ];
