@@ -1,0 +1,69 @@
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:300,600);
+
+body{
+    font-size: 20px;
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    font-weight: 300;
+    text-align: center;
+    background-color: black;
+}
+
+.jumbotron {
+    background: url(https://images8.alphacoders.com/532/thumb-1920-532074.jpg);
+    height: 450px;
+}
+
+.start-button {
+    margin-top: 255px;
+}
+
+.question{
+  font-size: 30px;
+  margin-bottom: 29px;
+}
+
+.answers {
+  margin-bottom: 20px;
+  text-align: left;
+  display: inline-block;
+}
+
+.answers label{
+  display: block;
+  margin-bottom: 10px;
+}
+
+button{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 22px;
+    font-color: white;
+    background-color: red;
+    border: 0px;
+    border-radius: 3px;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.subBtn {
+    margin-top: 470px;
+}
+
+.emptyDiv {
+    margin: 900px;
+}
+
+button:hover{
+    background-color: #38a;
+}
+
+#results {
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+.quiz-container{
+  position: relative;
+  height: 200px;
+  margin-top: 40px;
+}
